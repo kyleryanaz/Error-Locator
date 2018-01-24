@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+#widget {
+  background-color: slategray;
+  width: 50%;
+  border-radius: 1rem;
+  margin: auto;
+}
+
+#widgetContentString {
+  padding-top: 1rem;
+}
+
+#jumbotron {
+  padding-bottom: 1rem;
+}
